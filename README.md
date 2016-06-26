@@ -15,3 +15,5 @@ Running the "run_analysis.R" script, located in the "UCI HAR Dataset" folder con
 4) Extracts the columns/ measurements containing the mean or standard deviation for a given measurement (part #2 of the assignment). 
 
 5) Generates a separate file "tidy.txt" with the tidy data, which groups and averages the measurements extracted in the previous step for each activity and each subject (part #5 of the assignment).
+
+The file "run_analysis.R" contains further comments about the steps that it performs.
