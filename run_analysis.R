@@ -1,7 +1,8 @@
-library(data.table)
-
 ## Run this script in the "UCI HAR Dataset" folder, 
 ## after unzipping "getdata_projectfiles_UCI HAR Dataset.zip".
+
+library(data.table)
+library(dplyr)
 
 ## The following section loads the necessary files.
 features <- read.table("features.txt")
