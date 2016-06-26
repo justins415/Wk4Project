@@ -1,4 +1,4 @@
-  # Code Book for Course Project - Getting and Cleaning Data Week 4
+## Code Book for Course Project - Getting and Cleaning Data Week 4
   
   Human Activity Recognition Using Smartphones Dataset
   
