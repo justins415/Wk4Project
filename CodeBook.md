@@ -12,7 +12,7 @@
   - Its activity label. 
   - An identifier of the subject who carried out the experiment.
  
-  The following files contain descriptions of the data contained in the UCI HAR Dataset:
+The following files contain descriptions of the data contained in the UCI HAR Dataset:
   
   "features.txt" : provides a list of the various features/ measurements and sensor signals included in the database.
   
@@ -20,13 +20,13 @@
   
   "README.txt" : provides further explanation about the experiments and the associated files.
   
-  The accelerometer measurements are in standard gravity units 'g'.
+The accelerometer measurements are in standard gravity units 'g'.
   
-  The gyroscope measurements provide angular velocity in units of radians/ second.
+The gyroscope measurements provide angular velocity in units of radians/ second.
   
-  Variable names were modified in order to be more understandable in the final file "tidy.txt".
+Variable names were modified in order to be more understandable in the final file "tidy.txt".
   
-  The file "tidy.txt" contains only the columns/ measurements that contain a mean or standard deviation, and these are grouped to give averages of the measurements by subject and activity.
+The file "tidy.txt" contains only the columns/ measurements that contain a mean or standard deviation, and these are grouped to give averages of the measurements by subject and activity.
   
   
   
